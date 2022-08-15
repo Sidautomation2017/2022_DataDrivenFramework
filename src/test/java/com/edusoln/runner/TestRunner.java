@@ -39,6 +39,7 @@ public class TestRunner extends CommonFunctions{
 	@BeforeTest
 	public void beforeTest() {
 		report = ExtentReportGenerator.extentReportsetup();
+		System.out.println("git version +1");
 	}
 
 	@DataProvider(name = "dp")

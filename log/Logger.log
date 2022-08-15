@@ -214,3 +214,17 @@
 [DEBUG] 2022-08-15 06:26:21.069 [main] AssignLeavepage - dropdown selcted
 [DEBUG] 2022-08-15 06:26:21.622 [main] AssignLeavepage - COmment entered is
 [WARN ] 2022-08-15 06:26:22.774 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-15 11:14:38.045 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 11:14:38.187 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 11:14:41.471 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 11:15:10.405 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 11:15:10.513 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 11:15:14.064 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 11:15:21.590 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 11:15:21.681 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 11:15:25.271 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 11:15:26.340 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-15 11:15:28.042 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-15 11:15:28.561 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-15 11:15:29.416 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-15 11:15:30.514 [main] AssignLeavepage - Warning pop is displayed
