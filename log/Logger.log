@@ -1,0 +1,216 @@
+[WARN ] 2022-07-31 08:14:21.838 [main] LoggingDemo - this is warn loogger
+[ERROR] 2022-07-31 08:14:21.854 [main] LoggingDemo - this is error loogger
+[FATAL] 2022-07-31 08:14:21.854 [main] LoggingDemo - this is fatal loogger
+[INFO ] 2022-07-31 08:38:57.025 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:38:57.167 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:39:00.527 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 08:39:29.809 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:39:29.915 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:39:33.483 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 08:39:36.580 [main] AssignLeavepage - user is on Dashbord page
+[INFO ] 2022-07-31 08:39:56.895 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:39:57.009 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:40:00.410 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 08:42:13.488 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:42:13.592 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:42:16.945 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 08:42:20.032 [main] AssignLeavepage - user is on Dashbord page
+[WARN ] 2022-07-31 08:42:30.212 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 08:43:42.431 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:43:42.585 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:43:45.914 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 08:43:48.078 [main] AssignLeavepage - user is on Dashbord page
+[WARN ] 2022-07-31 08:43:57.609 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 08:44:04.999 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:44:05.102 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 08:44:08.609 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 09:19:39.630 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 09:19:39.771 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 09:19:43.156 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 09:19:50.502 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 09:19:50.601 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 09:19:55.063 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 09:19:57.172 [main] AssignLeavepage - user is on Dashbord page
+[WARN ] 2022-07-31 09:20:06.889 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 09:33:56.868 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 09:33:57.009 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 09:34:00.535 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 09:36:38.047 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 09:36:38.147 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 09:36:41.656 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 09:42:38.112 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 09:42:38.235 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 09:42:41.737 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 09:42:48.570 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 10:09:39.488 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:09:39.618 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:09:42.895 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:09:50.596 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:09:50.691 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:09:54.438 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:09:56.545 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:09:59.966 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:10:00.394 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:10:04.009 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-07-31 10:10:06.099 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 10:18:49.244 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:18:49.379 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:18:52.725 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:18:58.885 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:18:58.981 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:19:02.554 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:19:05.651 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:19:09.020 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:19:09.473 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:19:13.044 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-07-31 10:19:15.162 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 10:43:26.288 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:43:26.443 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:43:29.797 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:43:37.616 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:43:37.700 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:43:42.339 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:43:42.417 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:43:43.889 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:43:44.313 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:43:44.814 [main] AssignLeavepage - COmment entered is
+[DEBUG] 2022-07-31 10:45:17.935 [main] TestRunner - Test is Skipped:-Verify Login works fine
+[INFO ] 2022-07-31 10:45:26.562 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:45:26.662 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:45:31.075 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:45:31.201 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:45:32.748 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:45:33.196 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:45:33.729 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-07-31 10:45:43.230 [main] AssignLeavepage - Warning pop is displayed
+[DEBUG] 2022-07-31 10:46:24.698 [main] TestRunner - Test is Skipped:-Verify Login works fine
+[INFO ] 2022-07-31 10:46:32.613 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:46:32.713 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:46:37.402 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:46:37.522 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:46:39.236 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:46:39.697 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:46:40.284 [main] AssignLeavepage - COmment entered is
+[DEBUG] 2022-07-31 10:47:25.804 [main] TestRunner - Test is Skipped:-Verify Login works fine
+[INFO ] 2022-07-31 10:47:33.779 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:47:33.901 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:47:38.042 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:47:38.142 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:47:39.893 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:47:40.376 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:47:40.973 [main] AssignLeavepage - COmment entered is
+[DEBUG] 2022-07-31 10:50:27.285 [main] TestRunner - Test is Skipped:-Verify Login works fine
+[INFO ] 2022-07-31 10:50:35.242 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:50:35.361 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:50:39.814 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 10:50:39.921 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 10:50:42.038 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 10:50:42.459 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 10:50:43.047 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-07-31 10:50:44.152 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-07-31 10:58:50.152 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 10:58:50.296 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 10:58:54.908 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 10:59:02.967 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 11:00:48.869 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:00:48.969 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:00:53.347 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 11:01:01.553 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 11:05:31.679 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:05:31.814 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:05:36.333 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 11:05:44.277 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 11:07:30.182 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:07:30.290 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:07:37.445 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 11:09:14.219 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:09:14.462 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:09:18.917 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 11:11:00.918 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:11:01.064 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:11:13.396 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 11:11:27.028 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 11:12:56.138 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 11:12:56.282 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 11:13:00.906 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 11:13:09.087 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 17:59:00.831 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 17:59:01.452 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 17:59:04.686 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-07-31 17:59:14.812 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-07-31 18:06:21.652 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 18:06:21.959 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 18:06:26.839 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 18:06:36.546 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 18:06:36.696 [main] LoginPage - password is entered
+[INFO ] 2022-07-31 18:06:41.254 [main] LoginPage - Login Button clicked
+[INFO ] 2022-07-31 18:06:41.361 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-07-31 18:06:43.317 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-07-31 18:06:43.811 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-07-31 18:06:44.632 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-07-31 18:06:45.752 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-14 17:24:42.865 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 17:24:43.080 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 17:24:49.024 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 17:24:58.625 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 17:24:58.720 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 17:25:05.240 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 17:25:05.303 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-14 17:25:08.092 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-14 17:25:08.542 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-14 17:25:09.137 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-14 17:25:10.213 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-14 17:32:37.554 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 17:32:37.675 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 17:32:41.841 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 17:32:47.653 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 17:32:47.723 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 17:32:51.335 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 17:32:52.448 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-14 17:32:53.807 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-14 17:32:54.222 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-14 17:32:54.704 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-14 17:32:55.795 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-14 19:19:57.280 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 19:19:57.369 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 19:20:00.926 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 19:20:09.301 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 19:20:09.379 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 19:20:12.988 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 19:20:14.205 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-14 19:20:16.302 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-14 19:20:16.786 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-14 19:20:17.489 [main] AssignLeavepage - COmment entered is
+[INFO ] 2022-08-14 19:25:22.111 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 19:25:22.232 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 19:25:25.627 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 19:25:32.842 [main] LoginPage - User id is entered
+[INFO ] 2022-08-14 19:25:32.913 [main] LoginPage - password is entered
+[INFO ] 2022-08-14 19:25:37.664 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-14 19:25:37.756 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-14 19:25:39.488 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-14 19:25:40.047 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-14 19:25:40.846 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-14 19:25:41.963 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-15 06:24:05.906 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 06:24:05.982 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 06:24:11.896 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 06:24:24.480 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 06:24:24.549 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 06:24:31.868 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 06:24:31.959 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-15 06:24:34.363 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-15 06:24:34.860 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-15 06:24:35.389 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-15 06:24:36.537 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-15 06:25:59.317 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 06:25:59.397 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 06:26:05.143 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 06:26:12.564 [main] LoginPage - User id is entered
+[INFO ] 2022-08-15 06:26:12.633 [main] LoginPage - password is entered
+[INFO ] 2022-08-15 06:26:18.469 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-15 06:26:18.539 [main] AssignLeavepage - user is on Dashbord page
+[DEBUG] 2022-08-15 06:26:20.552 [main] AssignLeavepage - search result includesOrange Test
+[DEBUG] 2022-08-15 06:26:21.069 [main] AssignLeavepage - dropdown selcted
+[DEBUG] 2022-08-15 06:26:21.622 [main] AssignLeavepage - COmment entered is
+[WARN ] 2022-08-15 06:26:22.774 [main] AssignLeavepage - Warning pop is displayed

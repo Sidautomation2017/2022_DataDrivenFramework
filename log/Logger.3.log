@@ -1,0 +1,14 @@
+[ERROR] 2022-07-31 06:33:53.148 [main] LoggingDemo - this is error loogger
+[FATAL] 2022-07-31 06:33:53.194 [main] LoggingDemo - this is fatal loogger
+[INFO ] 2022-07-31 08:13:33.119 [main] LoggingDemo - this is sample info
+[INFO ] 2022-07-31 08:13:33.121 [main] LoggingDemo - this is info loogger
+[WARN ] 2022-07-31 08:13:33.122 [main] LoggingDemo - this is warn loogger
+[ERROR] 2022-07-31 08:13:33.122 [main] LoggingDemo - this is error loogger
+[FATAL] 2022-07-31 08:13:33.122 [main] LoggingDemo - this is fatal loogger
+[INFO ] 2022-07-31 08:13:57.394 [main] LoggingDemo - this is sample info
+[INFO ] 2022-07-31 08:13:57.397 [main] LoggingDemo - this is info loogger
+[WARN ] 2022-07-31 08:13:57.397 [main] LoggingDemo - this is warn loogger
+[ERROR] 2022-07-31 08:13:57.398 [main] LoggingDemo - this is error loogger
+[FATAL] 2022-07-31 08:13:57.398 [main] LoggingDemo - this is fatal loogger
+[INFO ] 2022-07-31 08:14:21.835 [main] LoggingDemo - this is sample info
+[INFO ] 2022-07-31 08:14:21.837 [main] LoggingDemo - this is info loogger

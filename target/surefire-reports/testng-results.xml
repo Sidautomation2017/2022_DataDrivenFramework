@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-15T06:25:47 IST" name="DataDrivenSuite" finished-at="2022-08-15T06:26:24 IST" duration-ms="36765">
+    <groups>
+    </groups>
+    <test started-at="2022-08-15T06:25:47 IST" name="Test" finished-at="2022-08-15T06:26:24 IST" duration-ms="36765">
+      <class name="com.edusoln.runner.TestRunner">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:25:47 IST" name="beforeTest" finished-at="2022-08-15T06:25:48 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:25:48 IST" name="browserSetup" finished-at="2022-08-15T06:25:59 IST" duration-ms="10557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:25:59 IST" name="testcase" data-provider="dp" finished-at="2022-08-15T06:26:05 IST" duration-ms="6019" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCase_Name=Verify Login works fine, Comment=Sick Leave, User id=Admin, password=admin123, Execute=Yes, AssignLeave=No, Emp_name=Or, FromDate=2022-07-20, ToDate=2022-07-21, Leave_type=US - Vacation}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:26:05 IST" name="teardown" finished-at="2022-08-15T06:26:05 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:26:05 IST" name="browserSetup" finished-at="2022-08-15T06:26:12 IST" duration-ms="7047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:26:12 IST" name="testcase" data-provider="dp" finished-at="2022-08-15T06:26:23 IST" duration-ms="11236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCase_Name=Verify Leave Assignment Works fine, Comment=Sick Leave, User id=Admin, password=admin123, Execute=Yes, AssignLeave=Yes, Emp_name=Or, FromDate=2022-07-20, ToDate=2022-07-21, Leave_type=US - Vacation}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:26:23 IST" name="teardown" finished-at="2022-08-15T06:26:23 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.edusoln.runner.TestRunner@30b19518]" started-at="2022-08-15T06:26:23 IST" name="afterTest" finished-at="2022-08-15T06:26:24 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.edusoln.runner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- DataDrivenSuite -->
+</testng-results>

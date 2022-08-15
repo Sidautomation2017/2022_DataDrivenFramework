@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-14T17:24:28 IST" name="DataDrivenSuite" finished-at="2022-08-14T17:25:12 IST" duration-ms="44353">
+    <groups>
+    </groups>
+    <test started-at="2022-08-14T17:24:28 IST" name="Test" finished-at="2022-08-14T17:25:12 IST" duration-ms="44353">
+      <class name="com.edusoln.runner.TestRunner">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:28 IST" name="beforeTest" finished-at="2022-08-14T17:24:28 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:30 IST" name="browserSetup" finished-at="2022-08-14T17:24:42 IST" duration-ms="12357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:42 IST" name="testcase" data-provider="dp" finished-at="2022-08-14T17:24:49 IST" duration-ms="6707" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCase_Name=Verify Login works fine, Comment=Sick Leave, User id=Admin, password=admin123, Execute=Yes, AssignLeave=No, Emp_name=Or, FromDate=2022-07-20, ToDate=2022-07-21, Leave_type=US - Vacation}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[All soft assert executed
+expected [Dashboard1] but found [Dashboard]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: All soft assert executed
+expected [Dashboard1] but found [Dashboard]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at com.edusoln.runner.TestRunner.testcase(TestRunner.java:68)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:49 IST" name="teardown" finished-at="2022-08-14T17:24:50 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:50 IST" name="browserSetup" finished-at="2022-08-14T17:24:58 IST" duration-ms="8086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:24:58 IST" name="testcase" data-provider="dp" finished-at="2022-08-14T17:25:11 IST" duration-ms="12673" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCase_Name=Verify Leave Assignment Works fine, Comment=Sick Leave, User id=Admin, password=admin123, Execute=Yes, AssignLeave=Yes, Emp_name=Or, FromDate=2022-07-20, ToDate=2022-07-21, Leave_type=US - Vacation}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[All soft assert executed
+expected [Dashboard1] but found [Dashboard],
+expected [Dashboard1] but found [Dashboard]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: All soft assert executed
+expected [Dashboard1] but found [Dashboard],
+expected [Dashboard1] but found [Dashboard]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at com.edusoln.runner.TestRunner.testcase(TestRunner.java:68)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:25:11 IST" name="teardown" finished-at="2022-08-14T17:25:12 IST" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.edusoln.runner.TestRunner@30ea8c23]" started-at="2022-08-14T17:25:12 IST" name="afterTest" finished-at="2022-08-14T17:25:12 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.edusoln.runner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- DataDrivenSuite -->
+</testng-results>
