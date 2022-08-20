@@ -250,3 +250,7 @@
 [INFO ] 2022-08-20 20:43:10.962 [main] LoginPage - password is entered
 [INFO ] 2022-08-20 20:43:11.019 [main] LoginPage - Login Button clicked
 [DEBUG] 2022-08-20 20:43:19.801 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-08-20 21:08:49.363 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 21:08:49.539 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 21:08:49.636 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-08-20 21:09:01.421 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
