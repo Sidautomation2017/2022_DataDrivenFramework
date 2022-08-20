@@ -228,3 +228,25 @@
 [DEBUG] 2022-08-15 11:15:28.561 [main] AssignLeavepage - dropdown selcted
 [DEBUG] 2022-08-15 11:15:29.416 [main] AssignLeavepage - COmment entered is
 [WARN ] 2022-08-15 11:15:30.514 [main] AssignLeavepage - Warning pop is displayed
+[INFO ] 2022-08-20 20:31:56.227 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:31:56.355 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:31:56.410 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-20 20:32:17.997 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:32:18.075 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:32:18.133 [main] LoginPage - Login Button clicked
+[INFO ] 2022-08-20 20:37:16.209 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:37:16.317 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:37:16.379 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-08-20 20:37:25.486 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-08-20 20:39:04.391 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:39:04.458 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:39:04.515 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-08-20 20:39:16.073 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-08-20 20:42:04.477 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:42:04.568 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:42:04.638 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-08-20 20:42:16.559 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
+[INFO ] 2022-08-20 20:43:10.882 [main] LoginPage - User id is entered
+[INFO ] 2022-08-20 20:43:10.962 [main] LoginPage - password is entered
+[INFO ] 2022-08-20 20:43:11.019 [main] LoginPage - Login Button clicked
+[DEBUG] 2022-08-20 20:43:19.801 [main] TestRunner - Test is Skipped:-Verify Leave Assignment Works fine
